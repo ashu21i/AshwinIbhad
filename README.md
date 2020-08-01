@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/AshwinIbhad/AshwinIbhad/blob/master/readme_header.png "Header")]
+![Header](https://github.com/AshwinIbhad/AshwinIbhad/blob/master/readme_header.png "Header")
 
 <!--
 **AshwinIbhad/AshwinIbhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
