@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/AshwinIbhad/AshwinIbhad/master/readme_header.png "Header")]
+[![Header](https://github.com/AshwinIbhad/AshwinIbhad/blob/master/readme_header.png "Header")]
 
 <!--
 **AshwinIbhad/AshwinIbhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/AshwinIbhad/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Fhow-to%2Fbest-phone-photo-editing-apps-for-photography-geeks-iphone-android%2F&psig=AOvVaw2exFb0ptDxmThXAwB0ArSa&ust=1596356090764000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDIxv_H-eoCFQAAAAAdAAAAABAD)
+
