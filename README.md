@@ -2,6 +2,8 @@
 
 # Hello, folks! <img src="https://github.com/AshwinIbhad/AshwinIbhad/blob/master/wave.gif" width="30px">
 
+My name is Ashwin Ibhad. I'm from India, living in Mumbai and currently pursuing Engineering third year.[![LinkedIn][3.2]][3].
+
 <!--
 **AshwinIbhad/AshwinIbhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
