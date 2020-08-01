@@ -5,6 +5,7 @@
 My name is Ashwin Ibhad. I'm from India, living in Mumbai and currently pursuing Engineering third year.
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=white&color=blue)
