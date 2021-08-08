@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://github.com/AshwinIbhad/AshwinIbhad/blob/master/wave.gif" width="30px">
 
-My name is Ashwin Ibhad. I'm from India, living in Mumbai and currently pursuing Engineering third year.
+My name is Ashwin Ibhad. I'm from India, living in Mumbai and currently pursuing Engineering fourth year.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blue)
